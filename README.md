@@ -1,4 +1,4 @@
-# TypeScript Deep Dive: Interfaces vs Types and Union & Intersection Types
+# TypeScript Fundamentals: Interfaces vs Types and Union & Intersection Types
 
 Typescript is made on the top of JavaScript but it's introducing the integration of more suitable advanced features which offering us to make our system more robust and maintainable. Today, we'll explore two fundamental aspects of TypeScript that often cause confusion among developers: the difference between interfaces and types, and the powerful concept of union and intersection types.
 
